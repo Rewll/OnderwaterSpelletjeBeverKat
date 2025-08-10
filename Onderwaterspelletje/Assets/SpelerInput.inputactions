@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "SpelerInput",
+    "maps": [
+        {
+            "name": "KatjeZwemmen",
+            "id": "98f5bbc5-2a9c-48bc-8301-bf452356794c",
+            "actions": [
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "3187ef1c-b845-4bae-95c2-666880090340",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ed72afc4-0879-44b3-b088-f6bd0c74fd2e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
